@@ -1,0 +1,5 @@
+{
+  "name": "Club Investment Dashboard",
+  "description": "A dashboard application to visualize investment club data from Google Sheets, similar to a provided Google Apps Script. It displays performance charts, portfolio allocation, trade history, and member information with a sleek, modern UI.",
+  "requestFramePermissions": []
+}
